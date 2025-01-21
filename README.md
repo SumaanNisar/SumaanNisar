@@ -1,11 +1,8 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHY3ejUybGQxM25xdTJtOWszZ2p5Z2UyY2FzcGQ1Z3l3eDFzeGRqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ayMW3eqvuP00o/giphy.gif" style="width: 100%; height: auto;" alt="centered gif" />
-</div>
- 💫 About Me:
-A Passionate Frontend Developer
+
+<h1>A Passionate Frontend Developer<h1/>
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumaan-nissar) 
 
 # 💻 Tech Stack:
