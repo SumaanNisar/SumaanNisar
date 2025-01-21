@@ -14,13 +14,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SumaanNisar&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SumaanNisar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SumaanNisar&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=SumaanNisar&icon=3&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
