@@ -3,7 +3,6 @@
 </div>
 <h1>A Passionate Frontend Developer<h1/>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumaan-nissar) 
 
